@@ -1,3 +1,3 @@
-# touch_grass
+# Touch Grass
 
 An Hactoberfest project
